@@ -35,13 +35,13 @@ This portfolio is designed to provide an overview of my work as a developer. It 
 
 Here are some of the projects featured in this portfolio:
 
-1. **Expense Tracker**: A Flutter application to track personal expenses. 2
+1. **Expense Tracker**: A Flutter application to track personal expenses. 
 
-2. **Quiz App**: A Flutter-based quiz application. 6
+2. **Quiz App**: A Flutter-based quiz application. 
 
 3. **Blog Page**: A MERN Stack Application to post your thoughts.
 
-4. **Todo Web App**: A Todo list for managing tasks . 13
+4. **Todo Web App**: A Todo list for managing tasks .
 
 ## Skills
 
